@@ -1,0 +1,13 @@
+MNIST Test Results
+==================
+
+This is a sample result file.
+
+After training and testing, the real result files will be generated automatically in this folder.
+
+Example:
+
+Model: cnn
+Test samples: 10000
+Correct predictions: 9890
+Test Accuracy: 98.90%
