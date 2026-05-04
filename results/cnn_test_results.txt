@@ -1,0 +1,20 @@
+MNIST Test Results
+==================
+
+Model: cnn
+Model path: saved_models/cnn_no_aug.pth
+Test samples: 10000
+Correct predictions: 9919
+Test Accuracy: 99.19%
+
+Per-class Accuracy:
+Digit 0: 99.69%
+Digit 1: 99.82%
+Digit 2: 99.42%
+Digit 3: 99.80%
+Digit 4: 99.19%
+Digit 5: 98.77%
+Digit 6: 98.75%
+Digit 7: 98.74%
+Digit 8: 98.77%
+Digit 9: 98.81%
